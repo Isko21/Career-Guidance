@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Career Guidance</string>
+    <string name="todo">TODO</string>
+    <string name="read">read</string>
+    <string name="read_info">Read info</string>
+    <string name="wall">wall</string>
+    <string name="home_title">TO TAKE THE BIG FIVE PERSONALITY ASSESSMENT, RATE EACH STATEMENT ACCORDING TO HOW WELL IT DESCRIBES YOU. BASE YOUR RATINGS ON HOW YOU REALLY ARE, NOT HOW YOU WOULD LIKE TO BE.</string>
+    <string name="start">Start Test</string>
+    <string name="career_test">Career Test</string>
+    <string name="answer">Working in a fulfilling career can dramatically increase happiness, self-confidence, and productivity, and consequently improve a company\'s performance. A career self-assessment is an important tool that can help identify possible avenues on a career path for an employee and be the instrument that opens up communication between the employee and his or her employer on how best to proceed. When the manager works with his employee to find the career path most rewarding for the employee, they are setting the stage for a long-term productive partnership</string>
+    <string name="que1">I am the life of the party.</string>
+    <string name="que2">I feel little concern for others.</string>
+    <string name="que3">I am always prepared.</string>
+    <string name="que4">I get stressed out easily.</string>
+    <string name="que5">I have a rich vocabulary.</string>
+
+    <string name="que6">I don\'t talk a lot.</string>
+    <string name="que7">I am interested in people.</string>
+    <string name="que8">I leave my belongings around.</string>
+    <string name="que9">I am relaxed most of the time.</string>
+    <string name="que10">I have difficulty understanding abstract ideas.</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_final">Final</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
